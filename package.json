@@ -1,0 +1,11 @@
+{
+  "name": "my-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot mit Webserver für Deno Deploy",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "express": "^4.18.2"
+  }
+}
